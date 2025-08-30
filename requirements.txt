@@ -1,3 +1,4 @@
-streamlit>=1.32
-edge-tts==6.1.9
-pydub>=0.25.1
+streamlit
+edge-tts
+pydub
+azure-cognitiveservices-speech
